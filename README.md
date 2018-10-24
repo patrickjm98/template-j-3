@@ -1,2 +1,1 @@
-# template-j-3
-Java Design and UML
+# Java 3: Design and UML
