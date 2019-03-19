@@ -15,7 +15,7 @@
 ## Exercise 3.3:
 >List or draw out the memory contents for the seven slides (23-29) with `StaticExample` or `DynamicExampleXXX` and `ObjX` classes. You can either draw a picture with boxes and arrows for pointers (you do not need to show addresses), or you can clearly list out what memory is stored in each region (Stack, Heap, or Globals).  Assume the garbage collector has not yet run.
 
-##Exercise 3.4:
+## Exercise 3.4:
 >In what cases does polymorphism work correctly for the lines below? Explain why or why not for each line.
 ```java
 1: Employee e0 = new Employee ("Gullible Gus", "555-55-5678", 50000);
