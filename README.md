@@ -4,7 +4,7 @@
  - your_email@gwu.edu
  - your github username
 
-# Design and UML
+## Exercise 3.0: Answer Question 1 on the worksheet
 
 ## Exercise 3.1:
 >Draw a UML diagram to represent the Mail System with both voice and text message support. Display the image in your Readme.
