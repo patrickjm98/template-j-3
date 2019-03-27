@@ -1,8 +1,8 @@
 # Java Module 3: OOP Design
 
-**Your Name** FILL YOUR NAME HERE
- - your_email@gwu.edu
- - your github username
+**Your Name** Patrick McCarthy
+ - patrickjm@gwu.edu
+ - patrickjm98
 
 ## Exercise 3.0: Answer Question 1 on the worksheet
 
